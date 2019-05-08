@@ -2,7 +2,7 @@
 	#   SegmentEdu - educational, general-development tool for beginner programmers and lifelong-learners
 	#   Copyright (C) 2019 Krzysztof Hoszowski and the SegmentEdu Team
 	#   Contact: Email - krzysztof.wlodzimierz@protonmail.com
-	#		SegmentEdu Team - Authors of SegmentEdu: Krzysztof Hoszowski, Jakub Cupiał
+	#   SegmentEdu Team - Authors of SegmentEdu: Krzysztof Hoszowski, Jakub Cupiał
 	#
 	#   This file is part of SegmentEdu.
 	#
