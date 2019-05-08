@@ -33,7 +33,7 @@ Apart from this file, README.md, it should contain the following files:
 	se_classes.py - Python programming language classes used by the game
 	at least one localization file, named in this fashion: localization_LANGUAGE-INDEX.py
 	COPYING file, which contains the terms of the license the game is released under
-As well as these folders:
+Some files are in the following folders:
 
 	Resources - with the images, sounds, etc. used by the game.
 	Levels - Holds files with parameters that determine objects that make up a level
