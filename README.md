@@ -2,7 +2,7 @@
 	#   SegmentEdu - educational, general-development tool for beginner programmers and lifelong-learners
 	#   Copyright (C) 2019 Krzysztof Hoszowski and the SegmentEdu Team
 	#   Contact: Email - krzysztof.wlodzimierz@protonmail.com
-	#   SegmentEdu Team - Authors of SegmentEdu: Krzysztof Hoszowski, Jakub Cupiał
+	#		SegmentEdu Team - Authors of SegmentEdu: Krzysztof Hoszowski, Jakub Cupiał
 	#
 	#   This file is part of SegmentEdu.
 	#
@@ -42,7 +42,18 @@ It probably also contains these files:
 	CHANGELOG - The changelog of the game
 	TO_DO - list of changes to (potentially) implement to the game
 
-If modifying and redistributing the software, remember - it can only be redistributed under the terms of the GNU GPL v3.0 license, and must contain at least, but perhaps not limited to the copyright notice and the terms of the license its released under. :)
+If modifying and redistributing the software or parts of it, remember - it/they can only be redistributed under the terms of the GNU GPL v3.0 license, and must contain at least, but not limited to the copyright notice, license notice and the terms of the license its released under. :)
+
+(Each file contains the copyright notice and the license notice so that they can be easily used individually by you according to the terms of the license, and so that there's no misunderstanding.)
+
+
+
+
+
+
+
+
+
 
 
 
