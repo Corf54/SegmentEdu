@@ -1,0 +1,20 @@
+~ 	Rysowanie - metoda (obiektu)
+? 	#Napraw 'coords' obrazków
+	Klasy do stworzenia: -Menu -Ustawienia -Wybór poziomu - Gra
+✔️	Sprzątanie
+✔️	passed_attr -> attr_passed
+✔️	nazwy plikow
+	Copyright
+✔️	Ujednolic wciecia
+✔️	Pozbadz sie listy attr
+	Title - przerobic na atrybut game?
+	
+✔️	Plik z poziomem - klasa, indeks:atrybut,
+
+	How to specify biome of level?
+
+------Propozycje------
+
+✔️	Merge classes_l i classes_n (np. 's' i 'Screen')
+?	Nowa klasa - Dynamic (dla wszystkich obiektow, ktore zmienaja polozenie)
+?	Metoda scale dla obiektow - dopasowanie rozmiaru obiektow do rozmiaru okienka
