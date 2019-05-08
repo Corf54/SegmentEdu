@@ -1,0 +1,2 @@
+# SegmentEdu
+Projekt
