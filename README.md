@@ -26,6 +26,7 @@
 You're in the main folder of SegmentEdu, the educational-recreational game.
 
 Apart from this file, README.md, it should contain the following files:
+
 	SegmentEdu.py - main game file
 	se_config.py - config file
 	se_styles.py - cosmetics file
@@ -33,9 +34,11 @@ Apart from this file, README.md, it should contain the following files:
 	at least one localization file, named in this fashion: localization_LANGUAGE-INDEX.py
 	COPYING file, which contains the terms of the license the game is released under
 As well as these folders:
+
 	Resources - with the images, sounds, etc. used by the game.
 	Levels - Holds files with parameters that determine objects that make up a level
 It probably also contains these files:
+
 	CHANGELOG - The changelog of the game
 	TO_DO - list of changes to (potentially) implement to the game
 
