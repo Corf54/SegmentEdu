@@ -1,6 +1,10 @@
-9:
+9: 0.5
 	Player: renamed image into make
 	Updated README.md
+	Got rid of attr list
+	Created function for dynamic size for the Screen
+	Fixed first__input method of Game
+	Deleted obsolete code in se_classes
 8:
 	Separated Screen class from other classes
 	Standardized indentation in se_classes

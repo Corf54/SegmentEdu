@@ -1,16 +1,16 @@
-~ 	Rysowanie - metoda (obiektu)
+X 	Rysowanie - metoda (obiektu)
 ? 	#Napraw 'coords' obrazków
 	Klasy do stworzenia: -Menu -Ustawienia -Wybór poziomu - Gra
 ✔️	Sprzątanie
 ✔️	passed_attr -> attr_passed
 ✔️	nazwy plikow
-	Copyright
+✔️	Copyright
 ✔️	Ujednolic wciecia
 ✔️	Pozbadz sie listy attr
 	Title - przerobic na atrybut game?
-	
-✔️	Plik z poziomem - klasa, indeks:atrybut,
-
+	Rozwin nazwy zmiennych: d -> delta
+	Nadawanie atrybutow. Plik z poziomem - klasa, indeks:atrybut,
+	Fix - Dlaczego dolna pozycja gracza po skoku zmienia sie o -0.5 lub o 10 ?
 	How to specify biome of level?
 
 ------Propozycje------

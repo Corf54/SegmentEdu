@@ -38,7 +38,7 @@ background_list = [
 
 # Whether or not to set window size dynamically / Czy ustawic rozmiar okna dynamiczna
 # ( depending on background resolution )			/ (zaleznie od rozmiary tla)
-dynamic_size = False
+dynamic_size = True
 
 # --------- Constants / Stale -----------
 pi = 3.141592653
@@ -51,7 +51,7 @@ white		= ( 255, 255, 255)
 #screen = classes.Screen(['s',])
 
 #Title / Tytul
-title = "SegmentEdu Alpha"
+title = "SegmentEdu Alpha 0.5"
 
 # ------ Variables / Zmienne -------
 
