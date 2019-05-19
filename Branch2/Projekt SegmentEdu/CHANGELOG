@@ -1,0 +1,62 @@
+13: Menu and Button classes integration
+	Left Menu with just changing game mode
+	Created initialization of Button objects
+	Generalized constructing and blitting for multiple Surface type objects within an object
+12: Integrating merges
+	Generalized classes Menu, Button
+	Created comments
+	Dynamic coding - Created in se_config: debug_default and default variables
+11: Merging
+	x_d -> x_delta
+	MERGES - classes Platform, Menu, Level i pochodny First
+	MERGES - kod klasy Gracz ; kod w Game, zwlaszcza first__input ; kod w pliku main
+10:
+	y_d -> y_delta...
+	Created comments (se_classes.py)
+	For Player - added collision_lines list, throwJob procedure
+9: 0.5
+	Player: renamed image into make
+	Updated README.md
+	Got rid of attr list
+	Created function for dynamic size for the Screen
+	Fixed first__input method of Game
+	Deleted obsolete code in se_classes
+8:
+	Separated Screen class from other classes
+	Standardized indentation in se_classes
+	Created comments in se_classes
+	
+7: v0.4
+	Oriented the game itself to object programming (replaced 'se_functions' with Game() class)
+6:
+	Fixed bug in draw_image
+	Generalized draw_image into third__output
+	Created comments
+5: v0.3a
+	Reduced main file code (including creating functions for setup and main loop, deleted obsolete comments)
+	Methodology: from library import for own libraries; import pygame
+	Created comments
+4:
+	Code reorganizing
+	Project name
+	Code comments
+3:
+	Added Menu class
+	Added Background class
+	Misc
+2:
+	Added Player class
+	Created file with game logic (eq_logic)
+1:
+	Renamed not-done into run
+	Fixed assigning attributes in Parent class
+0:
+	Filesystem
+	License
+	Copyright
+	Dynamic programming - settings, levels, OOP
+	
+NOTES
+	Methodology
+		Classes - default values
+		
